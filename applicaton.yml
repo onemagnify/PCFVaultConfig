@@ -1,0 +1,10 @@
+info:
+  description: Spring Cloud My Samples
+  url: https://github.com/spring-cloud-samples
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+      
+foo: baz
+bar: No Value
