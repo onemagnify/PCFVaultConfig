@@ -7,4 +7,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       
 foo: baz
-bar: No Value
+bar: there is a Value
